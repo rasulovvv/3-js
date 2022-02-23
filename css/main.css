@@ -1,0 +1,44 @@
+.transform{
+  padding-top: 70px;
+  text-align: center;
+}
+
+.form{
+  display: inline-block;
+  margin-bottom: 30px;
+}
+.form-control {
+  border: 2px solid #ced4da;
+  width: 185px;
+  padding: 11px 6px;
+  display: block;
+  margin-bottom: 5px;
+  border-radius: 4px;
+}
+.form-select{
+  border: 2px solid #ced4da;
+  width: 200px;
+  padding: 11px 6px;
+  display: block;
+  margin-bottom: 5px;
+  border-radius: 4px;
+}
+.btn{
+  border: 2px solid #ced4da;
+  margin-top: 2rem;
+  width: 200px;
+  padding: 11px 6px;
+  display: block;
+  margin-bottom: 5px;
+  border-radius: 4px;
+  background-color: rgb(54, 153, 4);
+}
+.result{
+  display: block;
+  margin: 0 auto;
+  width: 220px;
+  height: 45px;
+  padding-top: 8px;
+  font-size: 32px;
+  background-color: #fff
+}
